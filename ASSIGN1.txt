@@ -1,0 +1,1 @@
+No there is no alternative method to transpile our typescript code without using tsc command
